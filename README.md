@@ -1,68 +1,43 @@
-# Hi there, I'm Anya! 👋
+# Hi there! 👋 I'm Anya
 
-Welcome to my GitHub profile! I'm passionate about building meaningful projects and collaborating with the community.
+## 🌱 Welcome to My Learning Journey
 
-## About Me
+I'm a **beginner developer** passionate about learning and growing in tech. This is the start of my coding adventure, and I'm excited to share it with you!
 
-I'm a developer dedicated to creating clean, efficient, and impactful code. I love tackling challenging problems and learning new technologies along the way. When I'm not coding, you'll find me exploring open-source projects or contributing to the developer community.
+## 🎯 My Goals
 
-## 🚀 What I'm Working On
+- 📚 Learn fundamental programming concepts
+- 🔨 Build my first projects from scratch
+- 🤝 Connect with the developer community
+- 🚀 Grow from beginner to confident developer
 
-- Building innovative solutions that solve real-world problems
-- Contributing to open-source projects
-- Continuously learning and improving my craft
-- Collaborating with talented developers
+## 💻 Currently Learning
 
-## 💻 Tech Stack
+- Fundamentals of programming
+- Git and GitHub workflow
+- Web development basics
+- Problem-solving skills
 
-Here are some of the technologies I work with:
+## 📖 Resources I'm Using
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anya029&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anya029&layout=compact&theme=radical)
-
-## 🎯 Featured Projects
-
-Here are some projects I'm proud of:
-
-- **[Project Name](#)** - Brief description of what this project does
-- **[Project Name](#)** - Brief description of what this project does
-- **[Project Name](#)** - Brief description of what this project does
+- Online coding tutorials
+- Open-source repositories
+- Developer communities
+- Technical documentation
 
 ## 🤝 Let's Connect
 
-I'd love to hear from you! Feel free to reach out:
+I'm open to collaboration, feedback, and connecting with other learners! Reach out to me:
 
-- 💼 [LinkedIn](#) - Connect with me professionally
-- 🐦 [Twitter](#) - Follow my tech journey
-- 📧 Email me directly at your.email@example.com
-- 🌐 Check out my [personal website](#)
+- 📧 Email: [smrititamang822@example.com]
+  
 
-## 📚 Recent Blog Posts
+## 💡 Quote That Inspires Me
 
-<!-- BLOG-POST-LIST:START -->
-- Coming soon!
-<!-- BLOG-POST-LIST:END -->
-
-## 💡 Fun Facts
-
-- 🌟 I'm a passionate learner
-- 🎵 I believe great code is like a symphony
-- ☕ Powered by coffee and curiosity
-- 🌍 Always excited about new opportunities
+> "Every expert was once a beginner." - Unknown
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anya029&style=flat-square&color=blue" alt="" />
-  
-  **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to star ⭐ any projects you find interesting.**
+  <strong>Thanks for visiting! Feel free to follow my journey and let's learn together! 🚀</strong>
 </div>
