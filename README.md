@@ -29,7 +29,7 @@ I'm a **beginner developer** passionate about learning and growing in tech. This
 
 I'm open to collaboration, feedback, and connecting with other learners! Reach out to me:
 
-- 📧 Email: [smrititamang822@example.com]
+- 📧 Email: [smrititamang822@gmail.com]
   
 
 ## 💡 Quote That Inspires Me
